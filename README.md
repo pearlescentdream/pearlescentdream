@@ -1,4 +1,8 @@
-
+<p align="center"
+  
+  ![Views](https://komarev.com/ghpvc/?username=Moon-Jellie&color=blueviolet&label=♡&<p=align="center">)
+  
+<p align="center">
 Surtalogi x Yueliang (my oc) Realness
 
 
