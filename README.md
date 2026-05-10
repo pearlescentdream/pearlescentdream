@@ -1,6 +1,12 @@
 <p align="center"
   
   ![Views](https://komarev.com/ghpvc/?username=Moon-Jellie&color=9277CB&label=݁˖Ი𐑼⋆&<p=align="center">)
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=thatoneunwanted&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=thatoneunwanted&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=9586b3&bar_color_cover=false">
+  </a>
+</p>
   
 <p align="center">
 𐔌՞ ܸ.ˬ.ܸ՞𐦯 ˢᵘʳᵗᵃˡᵒᵍᶦ ˣ ʸᵘᵉˡᶦᵃⁿᵍ ⁽ᵐʸ ᵒᶜ⁾ ᴿᵉᵃˡⁿᵉˢˢ⟡ ݁₊ 
