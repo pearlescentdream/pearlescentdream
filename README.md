@@ -1,6 +1,6 @@
 <p align="center"
   
-  ![Views](https://komarev.com/ghpvc/?username=Moon-Jellie&color=blueviolet&label=݁˖Ი𐑼⋆&<p=align="center">)
+  ![Views](https://komarev.com/ghpvc/?username=Moon-Jellie&color=9277CB&label=݁˖Ი𐑼⋆&<p=align="center">)
   
 <p align="center">
 𐔌՞ ܸ.ˬ.ܸ՞𐦯 ˢᵘʳᵗᵃˡᵒᵍᶦ ˣ ʸᵘᵉˡᶦᵃⁿᵍ ⁽ᵐʸ ᵒᶜ⁾ ᴿᵉᵃˡⁿᵉˢˢ⟡ ݁₊ 
