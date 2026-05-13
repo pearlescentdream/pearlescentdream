@@ -1,6 +1,6 @@
 <p align="center"
   
-  ![Views](https://komarev.com/ghpvc/?username=Moon-Jellie&color=9277CB&label=݁˖Ი𐑼⋆&<p=align="center">)
+  ![Views](https://komarev.com/ghpvc/?username=Moon-Jellie&color=9277CB&label=݁˖Ი𐑼⋆&<p=align="center">&base=1000)
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=thatoneunwanted&redirect=true">
