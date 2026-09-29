@@ -5,7 +5,8 @@
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=thatoneunwanted&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=thatoneunwanted&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=9586b3&bar_color_cover=false">
-    <p align="center">┗═══˗ˏˋ ✦★࿐✧☆ˎˊ˗═══┛
+
+ <p align="center">┗═══˗ˏˋ ✦★࿐✧☆ˎˊ˗═══┛
   </a>
 </p>
   
@@ -24,3 +25,4 @@
 <p align="center">ᴿᵒᵃᵗʰᵉ | ʷᶠ
 <p align="center">ᴳᵉⁿᵒ | ᶠⁿ
 <p align="center">ᴹᶦᵈᵃˢ | ᶠⁿ
+  <p align="center">⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔
