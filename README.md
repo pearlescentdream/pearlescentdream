@@ -23,7 +23,11 @@
   <p align="center">⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔
 </p>
 </details>
-</p>   
+
+</p> 
+<p align="right"> ₛₑₑ ₕₑᵣ 𝒻ₐ𝒸ₑ ᵢₙ ₜₕₑ 𝒻ₒᵣₑₛₜ,
+
+
   <p align="center">┏═══˗ˏˋ ✦ ࿐࿔˚ *✦ ˊ˗═══┓
 <p align="center">
     
@@ -33,5 +37,6 @@
 
  <p align="center">┗═══˗ˏˋ ✦★࿐✧☆ˎˊ˗═══┛
   </a>
+  <p align="left"> ₜₕₑₙ ᵢₜ 𝒹ᵢₛₛₐₚₚₑₐᵣₛ
 </p>
   
