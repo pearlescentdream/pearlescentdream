@@ -19,6 +19,6 @@
   <p align="center">ᶠʸᵒᵈᵒʳ | BSD 
  <p align="center">ᴺᵒˡᶦ | RBLX
  <p align="center">ᴬᶻᵘʳᵉ | FORSAKEN
-<p align="center"> Roathe | WF
-<p align="center"> Geno | FN
-<p align="center"> Midas | FN
+<p align="center">ᴿᵒᵃᵗʰᵉ | WF
+<p align="center">ᴳᵉⁿᵒ | FN
+<p align="center">ᴹᶦᵈᵃˢ | FN
