@@ -15,10 +15,11 @@
   <br>
    <p align="center">𐙚ғᴀᴠs𐙚
    <p align="center">⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔
-  <p align="center">ˢᵘʳᵗᵃˡᵒᵍᶦ | GENSH
-  <p align="center">ᶠʸᵒᵈᵒʳ | BSD 
- <p align="center">ᴺᵒˡᶦ | RBLX
+  <p align="center">ˢᵘʳᵗᵃˡᵒᵍᶦ | ᴳᵉⁿˢʰ
+  <p align="center">ᶠʸᵒᵈᵒʳ | ᴮˢᵈ
+ <p align="center">ᴺᵒˡᶦ | ᴿᵒᵇˡˣ
  <p align="center">ᴬᶻᵘʳᵉ | FORSAKEN
+<p align="center">ᴰᵉᵛᵉˢᵗᵒ | ᴰᵒᴰ
 <p align="center">ᴿᵒᵃᵗʰᵉ | WF
 <p align="center">ᴳᵉⁿᵒ | FN
 <p align="center">ᴹᶦᵈᵃˢ | FN
