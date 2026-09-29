@@ -9,8 +9,14 @@
 </p>
   
 <p align="center">
-𐔌՞ ܸ.ˬ.ܸ՞𐦯 ˢᵘʳᵗᵃˡᵒᵍᶦ ˣ ʸᵘᵉˡᶦᵃⁿᵍ ⁽ᵐʸ ᵒᶜ⁾ ᴿᵉᵃˡⁿᵉˢˢ⟡ ݁₊ 
 
+ <details align="center">
+ <summary>𐔌՞ ܸ.ˬ.ܸ՞𐦯</summary>
+  <br>
+  <p align="center">Surtalogi
+  <p align="center">Fyodor
+ <p align="center"> Noli
+ <p align="center"> Azure
+<p align="center"> Roathe
 
-![17758521470704833300282083476913](https://github.com/user-attachments/assets/1a9cffcb-752b-48ce-b9fc-ae2a40f6e5f7)
 
