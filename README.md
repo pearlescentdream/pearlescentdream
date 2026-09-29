@@ -15,8 +15,8 @@
   <br>
    <p align="center">ғᴀᴠs
    <p align="center">⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔
-  <p align="center">Surtalogi | GENSH
-  <p align="center">Fyodor | BSD 
+  <p align="center">ˢᵘʳᵗᵃˡᵒᵍᶦ | GENSH
+  <p align="center">ᶠʸᵒᵈᵒʳ | BSD 
  <p align="center"> Noli | RBLX
  <p align="center"> Azure | FORSAKEN
 <p align="center"> Roathe | WF
