@@ -13,12 +13,12 @@
  <details align="center">
  <summary>𐔌՞ ܸ.ˬ.ܸ՞𐦯</summary>
   <br>
-   <p align="center">ғᴀᴠs
+   <p align="center">𐙚ғᴀᴠs𐙚
    <p align="center">⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔
   <p align="center">ˢᵘʳᵗᵃˡᵒᵍᶦ | GENSH
   <p align="center">ᶠʸᵒᵈᵒʳ | BSD 
- <p align="center"> Noli | RBLX
- <p align="center"> Azure | FORSAKEN
+ <p align="center">ᴺᵒˡᶦ | RBLX
+ <p align="center">ᴬᶻᵘʳᵉ | FORSAKEN
 <p align="center"> Roathe | WF
 <p align="center"> Geno | FN
 <p align="center"> Midas | FN
