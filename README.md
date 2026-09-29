@@ -18,7 +18,7 @@
   <p align="center">ˢᵘʳᵗᵃˡᵒᵍᶦ | ᴳᵉⁿˢʰ
   <p align="center">ᶠʸᵒᵈᵒʳ | ᴮˢᵈ
  <p align="center">ᴺᵒˡᶦ | ᴿᵒᵇˡˣ
- <p align="center">ᴬᶻᵘʳᵉ | FORSAKEN
+ <p align="center">ᴬᶻᵘʳᵉ | ⁴ˢᵃᵏᵉⁿ
 <p align="center">ᴰᵉᵛᵉˢᵗᵒ | ᴰᵒᴰ
 <p align="center">ᴿᵒᵃᵗʰᵉ | ʷᶠ
 <p align="center">ᴳᵉⁿᵒ | ᶠⁿ
