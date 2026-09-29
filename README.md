@@ -11,6 +11,7 @@
  <summary>𐔌՞ ܸ.ˬ.ܸ՞𐦯</summary>
   <br>
    <p align="center">𐙚ғᴀᴠs𐙚
+     <p align="center">ᵗʰᵉʸ ᵃˡˡ ᵏᶦˢˢ ᵐʸ ᵒᶜˢ
    <p align="center">⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔
   <p align="center">ˢᵘʳᵗᵃˡᵒᵍᶦ | ᴳᵉⁿˢʰ
   <p align="center">ᶠʸᵒᵈᵒʳ | ᴮˢᵈ
