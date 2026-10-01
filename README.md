@@ -4,7 +4,9 @@
   ![Views](https://komarev.com/ghpvc/?username=pearlescentdream&color=9277CB&label=݁˖Ი𐑼⋆&<p=align="center">&base=1917)
   
   <p align="center">
-  
+
+![hippo](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycjJjdnZ3YXl2NmdsZXdibjg2aWIwemsyNXoxdmdweHE1a3Qxd2U1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/68wQB0p2SxFCQlPU6A/giphy.gif)
+
 <p align="center">
 
  <details align="center">
