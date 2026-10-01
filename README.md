@@ -31,6 +31,16 @@
 
   <p align="center">┏═══˗ˏˋ ✦ ࿐࿔˚ *✦ ˊ˗═══┓
 <p align="center">
+
+ 
+  
+<br><p align="center">[¹](https://pearlescentdream.straw.page)
+[²](https://pages.github.com/)
+[³](https://pages.github.com/)
+
+
+
+
     
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=thatoneunwanted&redirect=true">
