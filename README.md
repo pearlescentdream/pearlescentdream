@@ -36,9 +36,9 @@
 
  
   
-<br><p align="center">[¹.](https://pearlescentdream.straw.page)
-[².](https://emperorssmile.carrd.co/)
-[³.](https://littledove.atabook.org/)
+<br><p align="center">[ˢᵗʳᵃʷ.](https://pearlescentdream.straw.page)
+[ᶜᵃʳʳᵈ.](https://emperorssmile.carrd.co/)
+[ᵃᵗᵃ.](https://littledove.atabook.org/)
 
 
 
